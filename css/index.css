@@ -2591,13 +2591,6 @@ blockquote footer cite:before {
   -ms-transition: all 0.3s;
   transition: all 0.3s;
 }
-#aside-content .card-info .card-info-social-icons i:hover {
-  -webkit-transform: rotate(540deg);
-  -moz-transform: rotate(540deg);
-  -o-transform: rotate(540deg);
-  -ms-transform: rotate(540deg);
-  transform: rotate(540deg);
-}
 #aside-content .card-info #card-info-btn {
   display: block;
   margin-top: 0.7rem;
@@ -2922,13 +2915,6 @@ blockquote footer cite:before {
   -ms-transition: all 0.5s;
   transition: all 0.5s;
   object-fit: cover;
-}
-.avatar-img img:hover {
-  -webkit-transform: rotate(360deg);
-  -moz-transform: rotate(360deg);
-  -o-transform: rotate(360deg);
-  -ms-transform: rotate(360deg);
-  transform: rotate(360deg);
 }
 @media screen and (min-width: 900px) {
   html.hide-aside .layout {
